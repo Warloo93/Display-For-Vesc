@@ -1,4 +1,4 @@
-
+Credits: Based on the original project by [Gh0513d/SVD](https://github.com/Gh0513d/SVD)
 
 Display For VESC
 This project is a custom dashboard and configuration tool for personal electric vehicles (PEVs) that use VESC®-based motor controllers. Built on an ESP32 microcontroller with a TFT screen, it provides real-time ride metrics, a brake light controller, and a Wi-Fi-based configuration interface.
