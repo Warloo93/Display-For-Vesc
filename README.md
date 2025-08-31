@@ -1,3 +1,5 @@
+
+
 Display For VESC
 This project is a custom dashboard and configuration tool for personal electric vehicles (PEVs) that use VESC®-based motor controllers. Built on an ESP32 microcontroller with a TFT screen, it provides real-time ride metrics, a brake light controller, and a Wi-Fi-based configuration interface.
 
@@ -96,3 +98,7 @@ Navigate to http://192.168.4.1 in your web browser.
 Use the web interface to input your specific settings (wheel diameter, motor pole pairs, etc.).
 
 Click "Save" to apply the changes. They will be saved to EEPROM and take effect immediately.
+
+<img src="https://github.com/Warloo93/Display-For-Vesc/blob/main/IMG_20250826_223225.jpg?raw=true" width="50%"></img> 
+<img src="https://github.com/Warloo93/Display-For-Vesc/blob/main/IMG_20250826_223230.jpg?raw=true" width="50%"></img> 
+
